@@ -1,0 +1,15 @@
+,mean,sd,hdi_3%,hdi_97%,Significant?
+Intercept,23.127,37.147,-47.865,92.456,No
+Total_Population,0.41,2.085,-3.454,4.36,No
+Race_White,-22.668,37.119,-92.186,47.658,No
+Race_Black,-21.884,31.276,-81.308,37.102,No
+Race_AmerInd,-16.776,13.752,-42.056,9.923,No
+Race_Asian,-15.022,28.393,-67.994,38.284,No
+Race_PacIsl,-18.905,20.813,-57.487,20.867,No
+Race_Other,-14.694,19.577,-51.359,22.258,No
+Avg_Per_Cap_Income,-3.705,6.591,-15.974,8.444,No
+lean_magnitude,-1.674,2.759,-6.717,3.717,No
+lean_party,-0.441,0.878,-2.015,1.325,No
+battleground,3.118,0.989,1.279,4.976,Yes
+Office_Representative,-6.343,1.426,-9.143,-3.872,Yes
+Office_Senator,-0.447,0.791,-1.908,1.11,No
